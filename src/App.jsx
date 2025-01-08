@@ -1,5 +1,6 @@
 import Profile from "./components/Profile/Profile";
 import userData from "./userData.json";
+import "./App.css";
 
 const App = () => {
   return (
@@ -8,7 +9,7 @@ const App = () => {
         name={userData.username}
         tag={userData.tag}
         location={userData.location}
-        image={userData.avatar}
+        image={userData.image}
         stats={userData.stats}
       />
     </>
