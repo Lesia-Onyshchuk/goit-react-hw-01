@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://{username}.github.io/{repo-name}/",
+  "homepage": "https://lesia-onyshchuk.github.io/test-react-01/",
   "type": "module",
   "scripts": {
     "dev": "vite",
